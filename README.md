@@ -14,7 +14,7 @@ For all samples to set up GitHub workflows, see [Create your first workflow](htt
 
 # Steps to create an End-to-End CI/CD Workflow
 
-## Pre-requisites
+#### Pre-requisites
 * Create a new Web App in Azure Portal with runtime stack as .NET and OS as Windows
 * Copy Publish Profile Settings of the app
 
