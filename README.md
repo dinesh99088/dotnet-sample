@@ -18,7 +18,7 @@ For all samples to set up GitHub workflows, see [Create your first workflow](htt
 * Create a new Web App in Azure Portal with runtime stack as .NET and OS as Windows
 * Copy Publish Profile Settings of the app
 
-##### Create an ASP.NET App Service in Azure
+###### Create an ASP.NET App Service in Azure
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-webapp-windows-ASPNET%2Fazuredeploy.json" target="_blank">
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png"/>
